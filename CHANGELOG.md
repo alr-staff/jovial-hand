@@ -5,32 +5,6 @@ All notable changes to this project will be documented in this file. See [standa
 # [3.0.0](https://github.com/nodeshift-starters/nodejs-rest-http-crud/compare/v2.1.2...v3.0.0) (2019-05-29)
 
 
-### Features
-
-*  Update to use Node.js 12.x ([a931332](https://github.com/nodeshift-starters/nodejs-rest-http-crud/commit/a931332))
-
-
-### BREAKING CHANGES
-
-* start using node 12
-
-
-
-<a name="2.1.1"></a>
-## [2.1.1](https://github.com/nodeshift-starters/nodejs-rest-http-crud/compare/v2.1.0...v2.1.1) (2019-01-17)
-
-
-### Bug Fixes
-
-* Fix resource limit for db and app container ([#119](https://github.com/nodeshift-starters/nodejs-rest-http-crud/issues/119)) ([457b678](https://github.com/nodeshift-starters/nodejs-rest-http-crud/commit/457b678))
-
-
-
-<a name="2.1.0"></a>
-# [2.1.0](https://github.com/nodeshift-starters/nodejs-rest-http-crud/compare/v2.0.1...v2.1.0) (2018-11-12)
-
-
-### Features
 
 * Dynamic image tagging using release version ([#116](https://github.com/nodeshift-starters/nodejs-rest-http-crud/issues/116)) ([2d16701](https://github.com/nodeshift-starters/nodejs-rest-http-crud/commit/2d16701))
 
